@@ -1,0 +1,10 @@
+# Ignore large dataset files
+dataset/raw_data/*.csv
+dataset/processed_data/*.csv
+
+# Ignore python bytecode
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
