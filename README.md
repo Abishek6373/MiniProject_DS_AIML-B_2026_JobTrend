@@ -33,6 +33,5 @@ Our analysis of over 1.3 million LinkedIn job postings (2024) revealed the follo
 - **Work Type:** Despite the rise of remote work, **Onsite** remains the most frequently listed job type in the recent LinkedIn dataset sample.
 
 ## Team Members
-- [Name 1]
-- [Name 2]
-- [Name 3]
+- Abishek P
+- Nuuthana VK
